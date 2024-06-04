@@ -1,4 +1,8 @@
-## Hi there 👋
+## oii
+Meu nome é Yara
+
+Estou estudando na Alura na disciplina de Tecnologia
+Estou me desenvolvendo na linguagem JavaScript
 
 <!--
 **sereia03/sereia03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
